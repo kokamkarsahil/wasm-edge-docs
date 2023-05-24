@@ -12,7 +12,7 @@ on:
       - '.env'
       - '.gitignore'
     branches:
-      - main
+      - Talks-Page
 
 jobs:
   publish:
